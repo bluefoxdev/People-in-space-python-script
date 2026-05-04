@@ -1,6 +1,6 @@
 ###HumanInSpace
 
-A somewhat basic python script that gets the amount of people in space, who they are, and what spacecraft they are on.
+A basic python script that gets the amount of people in space, who they are, and what spacecraft they are on.
 
 information is provided by the opennotify API.
 
