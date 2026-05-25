@@ -1,3 +1,5 @@
+⚠️It appears the API used in this repo is no longer updated (as of the 25th of May 2026) all results from this API will likely be out of date⚠️
+
 ### HumanInSpace
 
 A basic python script that gets the amount of people in space, who they are, and what spacecraft they are on.
